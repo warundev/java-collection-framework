@@ -1,5 +1,7 @@
 # Java Collection Framework
 
+![Java-Collections-Framework-Tutorial](https://github.com/user-attachments/assets/ecbe2086-00fb-46a9-abcb-f07f049252da)
+
 This repository contains examples and practice exercises for the Java Collection Framework.
 
 ## Contents
